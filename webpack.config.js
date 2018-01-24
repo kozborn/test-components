@@ -39,7 +39,10 @@ const config = {
     modules: [path.resolve('./node_modules'), path.resolve('./src')],
     extensions: ['.js', '.jsx']
   },
-  plugins: plugins
+  plugins: plugins,
+  externals: {
+    react: 'react'
+  }
 };
 
 module.exports = config;
