@@ -1,0 +1,20 @@
+.etd-components__cell {
+  background: #fff;
+}
+.etd-components__cell h2 {
+  font-size: 14px;
+  line-height: 30px;
+  margin: 0px;
+  padding: 0px;
+}
+.etd-components__card {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px #ccc;
+}
+.etd-components__judgement-fieldset label {
+  display: block;
+}
+
+/*# sourceMappingURL=EtdComponents.css.map*/
